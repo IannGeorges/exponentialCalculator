@@ -1,11 +1,3 @@
-/***********************************************/
-			 /* Assignment No: 5 */
- 		/* Name: Iann Akoulouze Bika*/
-// This program reads a text file and checks if 
-// the numbers within the file are divisible by  
-// a number entered by the user
-
-/***********************************************/
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
